@@ -220,3 +220,8 @@ Please refer to the showcase video for full gameplay demonstration.
 
 4\. Build using Visual Studio 2022
 
+
+
+## Personal Note
+
+This project was built to explore combat system design and improve my understanding of gameplay architecture in Unreal Engine. I focused especially on targeting logic, combo flow, and responsiveness.
