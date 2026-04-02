@@ -18,7 +18,7 @@ This project extends a course-based foundation with custom gameplay systems and 
 
 
 
-Video: https://youtu.be/ugWEUXH9Re8
+Video: https://youtu.be/LCyFqzIkHDw
 
 
 
